@@ -2,3 +2,9 @@ body {
     background-color: aquamarine;
     text-replace: aquamarine;
 }
+p {
+    color: beige;
+}
+h2 {
+    font-size: 50;
+}
